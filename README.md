@@ -1,5 +1,5 @@
 ## Meme Maker
-O objetivo desse projeto é criar um gerador de memes. Sendo possível realizar upload de imagens, ou escolher entre as imagens já disponíveis.
+O objetivo desse projeto é criar um gerador de memes. Sendo possível realizar upload de imagens, ou escolher entre as imagens já disponíveis. Após criado a imagem poderá ser baixada.
 
 ---
 ### Preview: 
